@@ -1,3 +1,7 @@
 Hello Professor
 
 This is Git Intro
+
+This is REALLY exciting!
+
+Staged?
