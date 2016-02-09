@@ -5,3 +5,6 @@ This is Git Intro
 This is REALLY exciting!
 
 Staged?
+
+Hello is anyone out there?
+It's me!
